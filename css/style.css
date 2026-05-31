@@ -1,7 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Almarai:wght@300;400;700;800&family=Monda:wght@400..700&display=swap');
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: "Almarai", sans-seri;
 }
 
 body {
@@ -52,7 +54,7 @@ h3 {
   border-radius: 4px;
   margin: 5px auto 15px auto;
   box-shadow: 0 0 12px rgba(108, 126, 255, 0.8);
-  }
+}
 
 .card:hover {
   border-color: rgba(108, 126, 255, 0.8);
@@ -83,6 +85,9 @@ p {
   margin: 8px 0 20px;
   padding: 0 10px;
   line-height: 1.5;
+}
+.card button i {
+  font-size: 20px;
 }
 
 button {
