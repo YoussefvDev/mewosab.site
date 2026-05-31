@@ -50,15 +50,6 @@
       <a href="https://www.instagram.com/n0xra.x.13"><button><i class="fab fa-instagram"></i></button></a>
     </div>
 
-    <!-- AmiiineDev -->
-    <div class="card">
-      <img src="https://github.com/AmiiineDev.png" alt="صورة المطور" />
-      <h2>AmiiineDev</h2>
-      <p>مطور فرونت اند مبتدئ 💐</p>
-      <a href="https://github.com/AmiiineDev"><button><i class="fab fa-github"></i></button></a>
-      <a href="https://www.instagram.com/amvvv._.v1?igsh=dm40Nmhwa2p1c3k5"><button><i class="fab fa-instagram"></i></button></a>
-    </div>
-
     <script src="./js/script.js"></script>
   </body>
 </html>
